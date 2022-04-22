@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persona>
+    <edad>30</edad>
+    <hijos>
+        <edad>3</edad>
+        <nombre>Jaimito</nombre>
+    </hijos>
+    <hijos>
+        <edad>3</edad>
+        <nombre>Jorgito</nombre>
+    </hijos>
+    <hijos>
+        <edad>3</edad>
+        <nombre>Juanito</nombre>
+    </hijos>
+    <hobbies>Leer</hobbies>
+    <hobbies>Calistenia</hobbies>
+    <hobbies>Hacer el vago</hobbies>
+    <nombre>Pato Donald</nombre>
+</persona>

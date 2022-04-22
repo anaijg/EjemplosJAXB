@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona>
+    <edad>68</edad>
+    <hijos>
+        <edad>45</edad>
+        <nombre>Jeremías</nombre>
+    </hijos>
+    <hobbies>Leer</hobbies>
+    <hobbies>Senderismo</hobbies>
+    <hobbies>Redes sociales</hobbies>
+    <nombre>Francisca</nombre>
+</persona>
